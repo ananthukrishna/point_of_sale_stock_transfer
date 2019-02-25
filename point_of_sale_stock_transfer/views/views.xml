@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="assets_backend" name="point_of_sale_stock_transfer_assets" inherit_id="point_of_sale.assets">
+        <xpath expr="." position="inside">
+            <link rel="stylesheet" href="/point_of_sale_stock_transfer/static/src/css/styles.css"/>                
+            <script type="text/javascript" src="/point_of_sale_stock_transfer/static/src/js/main.js"></script>
+            <script src="/point_of_sale_stock_transfer/static/src/js/jquery.searchabledropdown-1.0.8.src.js"></script>
+        </xpath>
+    </template>
+</odoo>
