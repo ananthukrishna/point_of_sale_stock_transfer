@@ -28,7 +28,7 @@
     "images": ['images/point_of_sale_stock_transfer.png'],
     "version": "10.0.1.0.0",
     "application": False,
-    "author": "Ananthu Krishna",
+    "author": "CodersFort",
     "support": "ananthu.krishna@gamil.com",
     "website": "https://wwww.codersfort.com",
     "depends": [
